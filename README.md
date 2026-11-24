@@ -89,6 +89,14 @@ binwalk suspicious.jpg
 ```bash
 binwalk /home/kali/Downloads/wallpaper.jpg
 ```
+#### OUTPUTS:
+
+#### METADATA & EMBEDDING:
+<img width="1600" height="1000" alt="meta and embedding" src="https://github.com/user-attachments/assets/e27c5215-696f-40d4-8184-6f0852084be2" />
+
+
+#### BINWALK ANALYSIS:
+<img width="1600" height="402" alt="timeline" src="https://github.com/user-attachments/assets/86d1f227-73bb-4faf-b56d-954e5ffc7dce" />
 
 
 ## RESULT:
